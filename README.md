@@ -1,4 +1,4 @@
-### Hola soy Nicolás👋
+### Hola👋
 
 - 🌱 I’m currently learning Typescript 
 
