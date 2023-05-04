@@ -1,6 +1,4 @@
-### Hola👋
-
-- 🌱 I’m currently learning Typescript 
+### Nicolás Cirulli
 
 <div align="center">
   <a href="https://github.com/nicolascirulli">
