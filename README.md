@@ -1,5 +1,3 @@
-### Nicolás Cirulli
-
 <div align="center">
   <a href="https://github.com/nicolascirulli">
   <img height="175em" width="370" src="https://github-readme-stats.vercel.app/api?username=nicolascirulli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
